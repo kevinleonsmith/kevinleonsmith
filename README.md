@@ -1,11 +1,1 @@
-Blockchain / Smart Contract Engineer focused on building secure, production-ready EVM protocols with comprehensive testing and security-first design principles.
-Looking for Junior to Mid-Level Smart Contract Engineer / Blockchain Developer roles where I can:
-- Contribute immediately with strong testing and security practices
-- Work with teams that prioritize code quality and security
-- Continue learning from senior engineers while adding value from day one
-- Build protocols that solve real problems in Web3
-
-<!---
-kevinleonsmith/kevinleonsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Gnosis-stack blockchain engineer specializing in AI-assisted SaaS products, smart contract security, and production-grade decentralized infrastructure. Deep expertise building on the Gnosis/xDAI ecosystem — including Gnosis Safe multi-sig, Chiado testnet deployments, and ultra-low-cost contract execution — combined with Chainlink oracle integration and AI-powered automation layers (Claude/GPT-4 APIs) to deliver scalable, audit-ready Web3 platforms. Proven across real estate tokenization, DeFi treasury management, marina asset SaaS, and NFT ticketing. Currently deepening smart contract auditing skills through Cyfrin Updraft and advancing AI orchestration via Google AI and Chainlink Labs coursework, with a focus on trustworthy, security-first decentralized systems.
